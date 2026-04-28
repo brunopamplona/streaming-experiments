@@ -1,0 +1,7 @@
+week,state_code,state_name,impressions_served,share_pct,in_target,action_required
+1,SP,São Paulo,1382431,91.2,yes,none
+1,SP,Grande SP,78169,5.1,yes,none
+1,MG,Minas Gerais,21131,1.4,no,monitor
+1,RJ,Rio de Janeiro,13697,0.9,no,REVIEW — tighten fence
+1,PR,Paraná,12178,0.8,no,monitor
+1,Other,Other states,9134,0.6,no,monitor
