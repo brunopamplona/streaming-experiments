@@ -70,11 +70,10 @@ Internet users are defined as individuals aged 10+ who accessed the internet in 
 
 | Channel | Spend share | Geo targeting method |
 |---|---|---|
-| CTV / streaming pre-roll | 30% | IP geofence — SP metro DMA |
-| Digital video (YouTube, Meta, TikTok) | 25% | City = São Paulo, RJ excluded |
-| Out-of-home (OOH) | 20% | Physical placement SP only |
-| In-app push + email | 15% | User billing ZIP in SP state |
-| Influencer / creator | 10% | SP-based creators, SP-primary audiences |
+| Digital video (Google Ads) | 25% | City = São Paulo, RJ excluded |
+| Digital video (YouTube Ads) | 25% | City = São Paulo, RJ excluded |
+| Digital video (Meta Ads) | 25% | City = São Paulo, RJ excluded |
+| Digital video (TikTok Ads) | 26% | City = São Paulo, RJ excluded |
 
 ### Measurement methodology
 
