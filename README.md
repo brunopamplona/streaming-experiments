@@ -1,11 +1,7 @@
 # streaming-experiments
 
-# streaming-experiments
-
 > A/B experiment design with sample size calculation, power analysis, and result interpretation.  
 > Includes a full geo-lift experiment with synthetic holdout region applied to a real-world streaming platform case.  
-> by Bruno Pamplona
-
 ---
 
 ## Overview
@@ -40,7 +36,7 @@ streaming-experiments/
 
 ---
 
-## Geo-lift experiment — ClaroTV+ Premiere
+## Geo-lift experiment — Video Streaming Premiere Monthly Subscription Plan
 
 ### Objective
 
