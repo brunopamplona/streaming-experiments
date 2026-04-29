@@ -11,7 +11,7 @@ This repository contains experiment design frameworks and simulated datasets for
 - **A/B experimentation** — classical randomised controlled trials for product and pricing tests, with sample size calculation and power analysis utilities
 - **Geo-lift experimentation** — geographic holdout studies for measuring incremental lift from paid media campaigns, where user-level randomisation is not feasible
 
-The geo-lift case study is built around **ClaroTV+ Premiere**, a premium streaming package, and uses São Paulo (treatment) and Rio de Janeiro (control) as the two experimental markets.
+The geo-lift case study is built around **Video+ Premiere**, a premium streaming package, and uses São Paulo (treatment) and Rio de Janeiro (control) as the two experimental markets.
 
 ---
 
@@ -44,7 +44,7 @@ Measure the **incremental** number of Premiere plan subscriptions driven by a pa
 
 ### Why geo-lift instead of A/B?
 
-For a streaming subscription campaign running across CTV, OOH, digital video, and influencer channels, user-level randomisation is not possible. A geo-lift study assigns entire cities to treatment or control, then uses the difference in subscription trends between them to estimate causal lift — independent of any ad platform's attribution model.
+For a streaming subscription campaign running across wallet-garden Platforms (Google, Meta, tiktok Ads, Youtube Ads) there´s no shared identity layer to randomize users on, and each platform reports lift through its own biased attribution model. A geo-lift study assigns entire cities to treatment or control and compares subscription trends between them - producing a causal lift estimate that´s independent of any ad platform's attribution.
 
 ### Market design
 
